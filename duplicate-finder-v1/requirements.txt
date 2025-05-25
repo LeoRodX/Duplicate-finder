@@ -1,0 +1,5 @@
+dbfread         2.0.7
+xlrd            2.0.1
+openpyxl        3.1.5
+humanize        4.12.3
+chardet         5.2.0
